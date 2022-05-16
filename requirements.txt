@@ -1,0 +1,10 @@
+pyodbc
+alembic
+apscheduler
+fastapi
+uvicorn
+python-dotenv
+pytelegrambotapi
+sqlalchemy
+oauth2client
+google-api-python-client
